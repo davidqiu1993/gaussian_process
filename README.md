@@ -3,7 +3,12 @@
 Demonstrating the Gaussian Process using sample points and visualization.
 
 
-# Copyright
+## Example
+
+![Gaussian Process Example](misc/gp_example.png?raw=true)
+
+
+## Copyright
 
 Below is the author information.
 
